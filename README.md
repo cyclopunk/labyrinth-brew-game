@@ -1,5 +1,7 @@
 # Labyrinth Brewery - THE GAME
 
+**Note - this repo is old, and at this point abandoned. I just founded a new startup and woof its taking up all my time. I need to get back  to rust and the latest Bevy at some point, but who knows when that will be. Until then, enjoy old bevy code and bad rust ;)**
+
 A few of my buds at my local brewery (http://lbc.beer) are making a beer of my own specification, so I decided to make them a video game. I am not a video game developer; I work for a pretty fantastic company called Slalom doing enterprise / custom app development. I'm just a dude who once wrote a MUD in C to learn how it in the 90s. I thought, the best way to learn https://www.rust-lang.org/ was to make a game.
 
 My timing was impeccable, because at the exact moment, https://bevyengine.org/ was released to the world. It is an ECS and rendering engine that's brand new, and super sweet. It focuses on ergonomics, which is  (in my opinion) one of the most important aspect of developing stuff. I'm hoping that me struggling through how to implement basic stuff (like Zooming, tile placement, mouse movement and position normalization, sprite interaciton, ECS queries, etc) will help others as Bevy becomes more mature.
